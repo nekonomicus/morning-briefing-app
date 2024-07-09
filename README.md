@@ -1,2 +1,3 @@
-# morning-briefing-app
-Morgenrapport-Assistant
+# Morning Briefing App
+
+This application helps doctors create structured presentations for morning briefings.
